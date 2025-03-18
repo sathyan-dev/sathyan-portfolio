@@ -37,7 +37,7 @@ let Navigation = () => {
             <FaGithub size={30} />
           </Nav.Link>
           <Nav.Link
-            href="www.linkedin.com/in/sathyan-shanmugam-472074338"
+            href="https://www.linkedin.com/in/sathyan-shanmugam-472074338/"
             target="_blank"
             className="text-primary mx-1"
           >
