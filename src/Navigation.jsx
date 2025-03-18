@@ -37,7 +37,7 @@ let Navigation = () => {
             <FaGithub size={30} />
           </Nav.Link>
           <Nav.Link
-            href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+            href="www.linkedin.com/in/sathyan-shanmugam-472074338"
             target="_blank"
             className="text-primary mx-1"
           >
